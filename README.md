@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 ## Mix-Reality Desktop: System Pad
 
-[![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture.png)](https://vimeo.com/yuchenghuang/mrd)
+[![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture-7.jpg)](https://vimeo.com/yuchenghuang/mrd)
 <p align="center"><a href="https://vimeo.com/yuchenghuang/mrd"><strong>WATCH THE INTRO VIDEO »</strong></a></p>
 
 ### Intro
